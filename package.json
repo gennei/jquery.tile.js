@@ -1,0 +1,22 @@
+{
+  "name": "jquery.tile",
+  "version": "0.0.1",
+  "description": "The lightest jQuery plugin to tile boxes.",
+  "main": "jquery.tile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gennei/jquery.tile.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gennei/jquery.tile.js/issues"
+  },
+  "homepage": "https://github.com/gennei/jquery.tile.js#readme"
+}
